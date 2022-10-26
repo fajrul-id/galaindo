@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f55792d.css",
+    "main.js": "/static/js/main.3dfb079e.js",
+    "static/media/Logo-Koperasi-png.png": "/static/media/Logo-Koperasi-png.9fac5a5084e5a58e9e78.png",
+    "static/media/LOGO.png": "/static/media/LOGO.8c60dbf4bfb6366a97c3.png",
+    "index.html": "/index.html",
+    "main.3f55792d.css.map": "/static/css/main.3f55792d.css.map",
+    "main.3dfb079e.js.map": "/static/js/main.3dfb079e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f55792d.css",
+    "static/js/main.3dfb079e.js"
+  ]
+}
